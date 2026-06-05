@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "story": {
+      "type": "http",
+      "url": "https://dashscope.aliyuncs.com/api/v1/mcps/market-cmapi00072981/mcp",
+      "headers": {
+        "Authorization": "Bearer ${DASHSCOPE_API_KEY}"
+      }
+    }
+  }
+}

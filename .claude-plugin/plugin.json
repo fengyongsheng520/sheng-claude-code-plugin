@@ -1,0 +1,19 @@
+{
+  "name": "team-toolkit",
+  "version": "2.0.0",
+  "description": "团队标准开发工具包：代码审查、测试、部署、安全扫描一体化",
+  "author": {
+    "name": "Platform Team",
+    "email": "platform-team@example.com"
+  },
+  "repository": "https://gitee.com/fysGit/team-toolkit",
+  "license": "MIT",
+  "keywords": [
+    "team",
+    "devops",
+    "code-review",
+    "testing",
+    "deployment",
+    "security"
+  ]
+}

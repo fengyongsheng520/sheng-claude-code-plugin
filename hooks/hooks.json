@@ -1,0 +1,15 @@
+{
+  "description": "这是测试的描述 ",
+  "hooks": {
+    "PreToolUse": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash ./hooks/check-bash.sh"
+          }
+        ]
+      }
+    ]
+  }
+}
