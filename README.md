@@ -1,6 +1,6 @@
 # Team Toolkit
 
-团队标准开发工具包，把第 23 讲讲到的五种插件组件（Commands / Agents / Skills / Hooks / MCP）整合成一个完整的、可安装的团队能力包。
+测试团队标准开发工具包，把第 23 讲讲到的五种插件组件（Commands / Agents / Skills / Hooks / MCP）整合成一个完整的、可安装的团队能力包。
 
 ## 目录结构
 
